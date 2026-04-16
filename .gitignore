@@ -1,0 +1,3 @@
+alpine-rootfs/
+__pycache__/
+*.pyc
